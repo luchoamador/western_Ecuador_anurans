@@ -1,1 +1,2 @@
 # western_Ecuador_anurans
+https://figshare.com/articles/dataset/Integrating_alpha_beta_taxonomic_and_phylogenetic_diversity_on_anuran_fauna_in_different_environmental_gradients_of_tropical_forests_in_western_Ecuador_-_Supplementary_material/7749320
